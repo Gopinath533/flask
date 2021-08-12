@@ -1,0 +1,3 @@
+import multi
+
+multi.mul() 
